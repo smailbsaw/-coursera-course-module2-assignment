@@ -1,2 +1,1 @@
-# course-test
-course test repository 
+# coursera-course-module2-assignment
